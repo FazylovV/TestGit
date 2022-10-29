@@ -1,0 +1,7 @@
+bin/
+TestGit/bin/
+obj/
+TestGit/obj/
+.vs/
+*.exe
+*.dll
